@@ -1,0 +1,32 @@
+.titulo{
+    text-align: center;
+    vertical-align: top;
+    font-size: xx-large;
+    font-family: var(--ion-font-family-titulo);
+}
+
+.subtitulo{
+    text-align: left;
+    font-size: x-large;
+    font-family: var(--ion-font-family-sub-titulo);
+    margin-top: 30px;
+}
+
+.bandeira{
+    height: 100%;
+    width: 100%;
+    align-content: center;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+.corpo{
+    width: 340px;
+    background-color: #e2c8ba;
+}
+
+.texto{
+    text-align: justify;
+}
